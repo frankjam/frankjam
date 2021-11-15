@@ -1,9 +1,6 @@
-### Hi there Software Engineer👋
+### Hi there 👋
 
-
-**frankjam/frankjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Frankline Gitonga. Am a software engineer. I combine my knowledge of software development to build products that can solve problems.
 
 - 🔭 I’m currently working on  a Jobs posting site ...
 - 🌱 I’m currently learning Machine Learning, Web3...
