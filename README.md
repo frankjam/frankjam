@@ -2,9 +2,9 @@
 
 Backend engineer building the systems banks and insurers run on. Java · Spring Boot · Nairobi, open to remote work.
 
-At **E&M Technology House** I build Java 21 / Spring Boot services for banks, insurers and SACCOs:
+I build Java/Spring Boot services for banks, insurers and SACCOs: 
 
-- **Leasing platform for Equity BCDC:** 12 Spring Cloud microservices (Kafka, Debezium, PostgreSQL) integrated with the Finacle core-banking system. Covers contract lifecycle, lease schedules, GL posting and maker-checker approvals.
+- **Leasing platform** 12 Spring Cloud microservices (Kafka, Debezium, PostgreSQL) integrated with the Finacle core-banking system. Covers contract lifecycle, lease schedules, GL posting and maker-checker approvals.
 - **Bancassurance and core insurance platforms:** quote-to-policy, premium and commission computation, receipting, and GL and trial-balance reports.
 - **Integrations** with insurers, CRM and core banking over REST, SOAP and Kafka.
 
